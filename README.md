@@ -1,5 +1,6 @@
 # squarespace-menu-split
 A css code for squarespace nev-menu split
+Copy this code and paste it in design > custom css
 Code:
 
 /* Copy from here */
